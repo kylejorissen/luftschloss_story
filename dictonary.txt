@@ -1,0 +1,24 @@
+Raesfeld - City
+Flughafen - Airport
+Berlin - City
+Bratwurst - Food
+Hauptstrasse - main road
+Brot - violation
+Klimaanlage - air conditioner 
+Rammstein - City
+Porsche - fancy car
+BMW - less fancy car
+Biergarten - Beer garden
+Ratskeller - Couldnt figure this one out.
+Dirndel - Couldnt figure this one out.
+Lederhose - fancy pants
+Schloss - lock
+wettbewerbsfaehig - competitive
+Mehlhase - flour bunny (also course instructor)
+Gebaeck - pastry
+Baeckerei - bakery
+Hund - dog
+Doener - Couldnt figure this one out.
+Apfelkuchen - appel cake
+Schloss - lock again?
+Eltz - Neat castle?
